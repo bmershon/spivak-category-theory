@@ -12,6 +12,6 @@ This repository is designed to provide a point of reference for controlled-acces
 
 If this respository were to be used in a class setting, individual students could [fork](https://help.github.com/articles/fork-a-repo/) the repo and then use GitHub Projects to manage ongoing questions, problem areas, bookmarks, or whatever. Furthermore, a forked repository allows students to host their own notes and begin assembling their own version of a course.
 
-Why GitHub? GitHub seems relatively future proof: one can download entire repositories of materials, their wikis, and make changes both through GitHub and on local machines. At the end of the day, one has a website that can be reduced to textfiles and moved around without worrying about proprietary software and ecosystems. It's all text (and PDFs, and images).
+Why GitHub? GitHub seems relatively future proof: one can download entire repositories of materials, their wikis, and make changes both through GitHub and on local machines. At the end of the day, one has a website that can be reduced to text files and moved around without worrying about proprietary software and ecosystems. It's all text (and PDFs, and images) and hyperlinks.
 
-Oh, and it's version controlled, because everything is backed by Git. There is a history of a course's evolution, and that history should evolve through collaboration among instructors and students.
+Oh, and it's version controlled, because everything is backed by Git. There is a history of a course's evolution, and that history should evolve through collaboration among instructors and students. GitHub is nice for that.
