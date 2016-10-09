@@ -14,4 +14,4 @@ If this respository were to be used in a class setting, individual students coul
 
 Why GitHub? GitHub seems relatively future proof: one can download entire repositories of materials, their wikis, and make changes both through GitHub and on local machines. At the end of the day, one has a website that can be reduced to textfiles and moved around without worrying about proprietary software and ecosystems. It's all text (and PDFs, and images).
 
-Oh, and it's version controlled, because everything is backed by Git. There is a history of a course's evolution.
+Oh, and it's version controlled, because everything is backed by Git. There is a history of a course's evolution, and that history should evolve through collaboration among instructors and students.
