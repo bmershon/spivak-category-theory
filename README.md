@@ -8,6 +8,8 @@ See the [wiki](https://github.com/bmershon/spivak-category-theory/wiki) for read
 
 ## How to use this repository
 
+Read the [wiki](https://github.com/bmershon/spivak-category-theory/wiki).
+
 This repository is designed to provide a point of reference for controlled-access materials (a private GitHub repository) as well as a wiki fleshed out by either an instructor, or one or more authors who are actively engaged with learning the material (like me).
 
 If this respository were to be used in a class setting, individual students could [fork](https://help.github.com/articles/fork-a-repo/) the repo and then use GitHub Projects to manage ongoing questions, problem areas, bookmarks, or whatever. Furthermore, a forked repository allows students to host their own notes and begin assembling their own version of a course.
