@@ -6,7 +6,7 @@ Materials collected for self-study of category theory are available to those who
 
 See the [wiki](https://github.com/bmershon/spivak-category-theory/wiki) for reading guides, notes, and other information related to self-study of category theory.
 
-## Why GitHub?
+## How to use this repository
 
 This repository is designed to provide a point of reference for controlled-access materials (a private GitHub repository) as well as a wiki fleshed out by either an instructor, or one or more authors who are actively engaged with learning the material (like me).
 
