@@ -14,7 +14,7 @@ Read the [wiki](https://github.com/bmershon/spivak-category-theory/wiki).
 
 This repository is designed to provide a point of reference for controlled-access materials (a private GitHub repository) as well as a wiki fleshed out by either an instructor, or one or more authors who are actively engaged with learning the material (like me).
 
-If this respository were to be used in a class setting, individual students could [fork](https://help.github.com/articles/fork-a-repo/) the repo and then use GitHub Projects to manage ongoing questions, problem areas, bookmarks, or whatever. Furthermore, a forked repository allows students to host their own notes and begin assembling their own version of a course.
+If this respository were to be used in a class setting, individual students could [fork](https://help.github.com/articles/fork-a-repo/) the repo and then use GitHub Projects to manage ongoing questions, problem areas, bookmarks, or whatever. Furthermore, a forked repository allows students to host their own notes and begin assembling their own version of a course. These versions are relatively easy to make use of should an instructor wish to augment his or her own notes, solutions, materials, etc.
 
 Why GitHub? GitHub seems relatively future proof: one can download entire repositories of materials, their wikis, and make changes both through GitHub and on local machines. At the end of the day, one has a website that can be reduced to text files and moved around without worrying about proprietary software and ecosystems. It's all text (and PDFs, and images) and hyperlinks.
 
